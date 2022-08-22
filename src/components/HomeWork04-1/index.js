@@ -4,12 +4,6 @@ import Organ from "./Form/Organ";
 import List from "./List";
 import ModalView from "./ModalView";
 import {
-  getUsers,
-  createUser,
-  editUser,
-  deleteUser,
-} from "../apis/users";
-import {
   getOrganization,
   getOrganizations,
   createOrganization,
